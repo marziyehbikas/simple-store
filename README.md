@@ -1,6 +1,7 @@
 Simple Store
 
-This project is a simple store application built with React, using Create React App as the boilerplate. It showcases basic functionality like adding products to the cart, managing quantities, and handling the checkout process.
+This project is a simple store application built with React, using Create React App as the boilerplate. It showcases basic functionality like adding products to the cart and managing quantities.
+
 
 Features
 - View product list
